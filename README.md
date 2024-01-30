@@ -30,6 +30,7 @@ To generate a password follow these steps:
 ![screenshot](https://github.com/jess-santos/Password-generator/blob/main/assets/special.png)
 
 8. Your uniquely generated password will be displayed and can be copied. To generate a new password, go through all of these steps again.
+![screenshot](https://github.com/jess-santos/Password-generator/blob/main/assets/final-page.png)
 
 ## Credits
 N/A
